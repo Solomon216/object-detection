@@ -1,1 +1,1 @@
-# object-detection
+# Object Detection using Tensorflow models
